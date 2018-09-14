@@ -1,2 +1,1 @@
-print ("welcome Sergey pidor")
-print ("idi nahuy")
+print ("welcome")
